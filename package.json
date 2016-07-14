@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/fradelg/ionic-gulp-pug-build.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-pug": "^3.0.3"
